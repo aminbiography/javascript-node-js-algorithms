@@ -1,3 +1,79 @@
+
+# JavaScript Node.js Algorithms
+
+A collection of JavaScript algorithm examples designed to practice programming logic, problem-solving, and fundamental algorithmic concepts using Node.js.
+
+## Introduction
+
+This repository provides practical implementations of common algorithms using JavaScript. The examples cover mathematical calculations, string operations, array manipulation, sorting, and searching.
+
+The purpose is to build a stronger understanding of JavaScript fundamentals and develop problem-solving skills through simple, executable code examples.
+
+## Algorithms Covered
+
+The repository includes 15 algorithm examples:
+
+1. **Factorial of a Number** — Calculate a number's factorial using recursion.
+2. **Fibonacci Sequence** — Generate Fibonacci numbers using a loop.
+3. **Prime Number Checker** — Determine whether a number is prime.
+4. **Palindrome Checker** — Check whether a string reads the same forward and backward.
+5. **Sum of an Array** — Calculate the sum of array elements using `reduce()`.
+6. **Reverse an Array** — Reverse the order of array elements.
+7. **Find Maximum in an Array** — Find the largest value using `Math.max()`.
+8. **Find Minimum in an Array** — Find the smallest value using `Math.min()`.
+9. **Bubble Sort** — Sort array elements using the bubble sort algorithm.
+10. **Linear Search** — Find a target value through sequential searching.
+11. **Binary Search** — Search for a target value in a sorted array.
+12. **Count Occurrences in an Array** — Count how many times a value appears.
+13. **Remove Duplicates from an Array** — Remove repeated values using `Set`.
+14. **Merge Two Arrays** — Combine arrays using the spread operator.
+15. **Even or Odd Checker** — Determine whether a number is even or odd.
+
+## Technologies Used
+
+- JavaScript (ES6+)
+- Node.js
+- JavaScript Functions
+- Arrays and Strings
+- Loops and Conditional Statements
+- Recursion
+- Array Methods
+- Built-in JavaScript Objects and Methods
+
+## Repository Structure
+
+```text
+javascript-node-js-algorithms/
+├── javascript.js
+└── README.md
+```
+
+## How to Run
+
+**Prerequisite:** Install [Node.js](https://nodejs.org/).
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/aminbiography/javascript-node-js-algorithms.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd javascript-node-js-algorithms
+   ```
+
+3. Run the JavaScript file:
+
+   ```bash
+   node javascript.js
+   ```
+
+The algorithm examples and their sample outputs will run in the terminal.
+
+---
+
 <h1>Node.js</h1>
 
 
@@ -127,3 +203,26 @@ function isEven(num) {
 console.log(isEven(4)); // true
 console.log(isEven(5)); // false
 ```
+
+---
+
+## Learning Objectives
+
+- Practice JavaScript programming fundamentals.
+- Understand recursion and iteration.
+- Work with arrays and strings.
+- Apply sorting and searching techniques.
+- Use JavaScript built-in methods and operators.
+- Improve logical thinking and algorithmic problem-solving.
+
+## Purpose
+
+This repository is maintained as a learning and practice resource for JavaScript and Node.js. It provides simple examples for exploring algorithms and strengthening foundational programming skills.
+
+## Author
+
+**Mohammad Aminul Islam**
+
+---
+
+#JavaScript #NodeJS #NodeJSAlgorithms #JavaScriptAlgorithms #Algorithms #ProblemSolving #CodingPractice #JavaScriptBasics #ES6 #ArrayMethods #SortingAlgorithms #SearchingAlgorithms #Recursion #ProgrammingFundamentals #LearnJavaScript
